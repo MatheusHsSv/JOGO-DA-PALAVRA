@@ -1,0 +1,30 @@
+.Start{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+}
+
+
+.Start h1{
+    font-size: 100px;
+    margin: 0;
+
+}
+
+.Start strong{
+    color:#F22727 ;
+}
+
+.Start p{
+    color: #023E73;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.Start button{
+    margin-top: 10px;
+}
